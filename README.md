@@ -77,4 +77,4 @@ Tecnologias que estou estudando para aprimoramento de projetos:
 
 
 
-![snake gif](https://github.com/HenriqueScloud/HenriqueScloud/blob/output/github-contribution-grid-snake.svg)
+[![snake gif](https://github.com/HenriqueScloud/HenriqueScloud/blob/output/github-contribution-grid-snake.svg)]
