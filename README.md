@@ -67,8 +67,9 @@ Tecnologias que estou estudando para aprimoramento de projetos:
 
 <div>
   <a href="https://www.linkedin.com/in/henrique-silva-mendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send/?phone=%2B5521969221346&text='📞👨‍💻Olá [Seu Nome]!
-💡Fiquei interressado no seus projetos como desenvolvedor frontend! Podemos conversar  sobre possíveis oportunidades?💼🚀 Aguardo seu retorno!'&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5521969221346&text='📞👨‍💻Olá, Henrique!
+    💡Fiquei interressado no seus projetos como desenvolvedor frontend! Podemos conversar  sobre possíveis oportunidades?
+    💼🚀 Aguardo seu retorno!'&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:henriquesilvamendes076@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/henrique_silvahsm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/henrique.8113" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
