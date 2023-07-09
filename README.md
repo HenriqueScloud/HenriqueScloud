@@ -75,6 +75,6 @@ Tecnologias que estou estudando para aprimoramento de projetos:
 <br>
 <p>🧠 <span style="font-style:italic">"Learning is the only thing the mind never exhausts, never fears, and never regrets."</span></p>
 
-![Snake animation](https://github.com/HenriqueScloud/HenriqueScloud/blob/output/github-contribution-grid-snake.svg)
+
 
 
