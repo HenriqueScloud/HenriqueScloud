@@ -1,13 +1,13 @@
 <h1 align='center'>
-  Hello, I'm Henrique Silva Mendes!
+  Olá, sou Henrique Silva Mendes!
   <br/>
-  Welcome !
+  Bem-vindo !
 </h1>
 <p align='center'>
   Desenvolvedor Frontend 
 </p>
 
-<h2> 😉 About Me: </h2>
+<h2> 😉 Sobre mim: </h2>
 
 
 <p>
@@ -16,31 +16,29 @@
   </em>
 </p>
 
-- 🌱 Studying and improving my skills in react.js, Angular and vue.js.
-- 🚀 Student at Origamid, Rocketseat and Curso em Video.
-- 📫 My email: henriquesilvamendes076@gmail.com
+- 🌱 Estudando e aprimmorando minhas habilidades em react.js, Angular and vue.js.
+- 🚀 Aluno da Origamid, Rocketseat and Curso em Video.
+- 📫 Meu email: henriquesilvamendes076@gmail.com
 
-<h2>  📊 2023 Goals:</h2>
+<h2>  📊 2023 Objetivos:</h2>
 
-- 📚 Keep seeking knowledge from people and study materials
+- 📚 Continuar buscando conhecimento de pessoas e materias de estudo 
 
-- ⭐ Expand and improve my leadership skills
+- ⭐ Expandir e melhorar minhas habilidades 
 
-- 💙 Meet amazing people and places this year and be part of their story
+- 📋 Criar um projeto pessoal que amplique todo o conhecimento obitido ao longo do meu percurso, bem como a implementação de novas tecnologias.
 
-- 📋 Create a personal project that applies all the knowledge obtained throughout my journey, as well as implementing new technologies.
-
-<h2> ⚡ Technologies:</h2>
+<h2> ⚡ Tecnologias:</h2>
 
 
-These are some of the technologies and tools I use:
+Estas são algumas das tecnologias e ferramentas que utilizo:
 
 - Front-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 
-- Tools and Plataforms
+- Ferramentas e plataformas 
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
@@ -49,21 +47,21 @@ Tecnologias que estou estudando para aprimoramento de projetos:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=react,angular,vue,next)](https://skillicons.dev) <br>
 <div align='center'>
-<h1 align='center'>   📈 My Statistics</h1>
+<h1 align='center'>   📈 Minhas estatisticas </h1>
 
 
 
-| My GitHub                                                                                                                                                         | Top Languages                                                                                                                                                                    |
+| Meu GitHub                                                                                                                                                         | Principais Linguagens                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=HenriqueScloud&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueScloud&theme=blue-green) |
 
 
-| My Streak                                                                                                                                                             |
+| Minha Faixa                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=HenriqueScloud&theme=jolly)](https://git.io/streak-stats) |
 </div>
 
-💬 Want to get in touch?
+💬 Quer entrar em contato ?
 
 <div>
   <a href="https://www.linkedin.com/in/henrique-silva-mendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -75,7 +73,7 @@ Tecnologias que estou estudando para aprimoramento de projetos:
   <a href="https://discord.gg/henrique.8113" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-<p>🧠 <span style="font-style:italic">"Learning is the only thing the mind never exhausts, never fears, and never regrets."</span></p>
+<p>🧠 <span style="font-style:italic">"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nãose arrepende."</span></p>
 
 
 
