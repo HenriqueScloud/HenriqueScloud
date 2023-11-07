@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Olá, sou Henrique Silva Mendes!
+  Olá, sou Henrique S. Mendes!
   <br/>
   Bem-vindo !
 </h1>
@@ -17,10 +17,10 @@
 </p>
 
 - 🌱 Estudando e aprimmorando minhas habilidades em react.js, Angular and vue.js.
-- 🚀 Aluno da Origamid, Rocketseat and Curso em Video.
+- 🚀 Aluno da Origamid, Kenzie Academy and Curso em Video.
 - 📫 Meu email: henriquesilvamendes076@gmail.com
 
-<h2>  📊 2023 Objetivos:</h2>
+<h2>  📊 2024 Objetivos:</h2>
 
 - 📚 Continuar buscando conhecimento de pessoas e materias de estudo 
 
@@ -40,7 +40,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 - Ferramentas e plataformas 
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
 
 
 Tecnologias que estou estudando para aprimoramento de projetos:
