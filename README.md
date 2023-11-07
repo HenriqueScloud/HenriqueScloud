@@ -16,17 +16,17 @@
   </em>
 </p>
 
-- 🌱 Estudando e aprimmorando minhas habilidades em react.js, Angular and vue.js.
-- 🚀 Aluno da Origamid, Kenzie Academy and Curso em Video.
-- 📫 Meu email: henriquesilvamendes076@gmail.com
+-  Estudando e aprimmorando minhas habilidades em react.js, Angular and vue.js.
+-  Aluno da Origamid, Kenzie Academy and Curso em Video.
+-  Meu email: henriquesilvamendes076@gmail.com
 
 <h2>  📊 2024 Objetivos:</h2>
 
-- 📚 Continuar buscando conhecimento de pessoas e materias de estudo 
+-  Continuar buscando conhecimento de pessoas e materias de estudo 
 
-- ⭐ Expandir e melhorar minhas habilidades 
+-  Expandir e melhorar minhas habilidades 
 
-- 📋 Criar um projeto pessoal que amplique todo o conhecimento obitido ao longo do meu percurso, bem como a implementação de novas tecnologias.
+-  Criar um projeto pessoal que amplique todo o conhecimento obitido ao longo do meu percurso, bem como a implementação de novas tecnologias.
 
 <h2> ⚡ Tecnologias:</h2>
 
