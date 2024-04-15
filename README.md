@@ -35,7 +35,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,bootstrap,scss,react)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,bootstrap,scss,react,insomnia)](https://skillicons.dev)
 
 
 - Ferramentas e plataformas 
