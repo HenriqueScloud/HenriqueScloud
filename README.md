@@ -40,7 +40,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 - Ferramentas e plataformas 
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel)](https://skillicons.dev)
 
 
 Tecnologias que estou estudando para aprimoramento de projetos:
