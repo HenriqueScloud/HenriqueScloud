@@ -12,12 +12,12 @@
 
 <p>
   <em>
-    Tenho 19 anos, sou do Rio de Janeiro e trabalho com Freelancer desenvolvendo projeto web persolnalizados.
+    Tenho 19 anos, sou do Rio de Janeiro e trabalho com Freelancer desenvolvendo projeto web personalizados.
   </em>
 </p>
 
--  Estudando e aprimmorando minhas habilidades em react.js, Angular and vue.js.
--  Aluno da Origamid, Kenzie Academy and Curso em Video.
+-  Estudando e aprimmorando minhas habilidades em react.js, TypeScript e React.js.
+-  Aluno da Origamid, Kenzie Academy e Curso em Video.
 -  Meu email: henriquesilvamendes076@gmail.com
 
 <h2>  📊 2024 Objetivos:</h2>
