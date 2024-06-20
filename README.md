@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 19 anos, sou do Rio de Janeiro e trabalho com Freelancer desenvolvendo projeto web personalizados.
+    Tenho 20 anos, sou do Rio de Janeiro e trabalho com Freelancer desenvolvendo projeto web personalizados.
   </em>
 </p>
 
@@ -39,7 +39,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=python,typescript, express)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=python,typescript,express)](https://skillicons.dev)
 
 
 - Ferramentas e plataformas 
