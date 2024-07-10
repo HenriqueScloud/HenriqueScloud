@@ -49,7 +49,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 Tecnologias que estou estudando para aprimoramento de projetos:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=react,python,typescript,next)](https://skillicons.dev) <br>
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react,python,typescript,nodejs)](https://skillicons.dev) <br>
 <div align='center'>
 <h1 align='center'>   📈 Minhas estatisticas </h1>
 
