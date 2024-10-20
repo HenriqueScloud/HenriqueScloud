@@ -39,7 +39,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=python,typescript,express,postgres,mysql,php)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=python,typescript,express,postgres,mysql,php,node.js)](https://skillicons.dev)
 
 
 - Ferramentas e plataformas 
@@ -49,7 +49,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 Tecnologias que estou estudando para aprimoramento de projetos:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) <br>
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,php,typescript)](https://skillicons.dev) <br>
 <div align='center'>
 <h1 align='center'>   📈 Minhas estatisticas </h1>
 
