@@ -16,7 +16,7 @@
   </em>
 </p>
 
--  Estudando e aprimmorando minhas habilidades em react.js, TypeScript e React.js.
+-  Estudando e aprimmorando minhas habilidades em TypeScript, React.js e PHP.
 -  Aluno da Origamid, Kenzie Academy e Curso em Video.
 -  Meu email: henriquesilvamendes076@gmail.com
 
@@ -39,7 +39,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=python,typescript,express,postgres,mysql,SQL,php)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=python,typescript,express,postgres,mysql,php)](https://skillicons.dev)
 
 
 - Ferramentas e plataformas 
