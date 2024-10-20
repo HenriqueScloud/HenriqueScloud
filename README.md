@@ -77,7 +77,7 @@ Tecnologias que estou estudando para aprimoramento de projetos:
   <a href="https://discord.gg/henrique.8113" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-<p>🧠 <span style="font-style:italic">"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nãose arrepende."</span></p>
+<p>🧠 <span style="font-style:italic">"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e não se arrepende."</span></p>
 
 
 
