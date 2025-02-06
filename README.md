@@ -20,7 +20,7 @@
 -  Aluno da Origamid, Kenzie Academy, Curso em Video e DIO.
 -  Meu email: henriquesilvamendes076@gmail.com
 
-<h2>  📊 2024 Objetivos:</h2>
+<h2>  📊 2025 Objetivos:</h2>
 
 -  Continuar buscando conhecimento de pessoas e materias de estudo 
 
