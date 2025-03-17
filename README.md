@@ -60,11 +60,6 @@ Tecnologias que estou estudando para aprimoramento de projetos:
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=HenriqueScloud&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueScloud&theme=blue-green) |
 
 
-| Minha Faixa                                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=HenriqueScloud&theme=jolly)](https://git.io/streak-stats) |
-</div>
-
 💬 Quer entrar em contato ?
 
 <div>
